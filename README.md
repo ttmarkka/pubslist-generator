@@ -34,7 +34,7 @@ Uses:
 
 ## Note on publication ordering
 The items are organized in descending manner (newest first) with the arXiv
-upload date as the primary date. If no arXiv entry exists the year entry of the bibTeX item is used as the date instead with January as the default month. If also the entry for the year is missing the item is simply placed at the end of the list and there is no ordering for the set of items with no date infromation available.   
+upload date as the primary date. If no arXiv entry exists the year entry of the bibTeX item is used as the date instead with January as the default month. If also the entry for the year is missing the item is simply placed at the end of the list and there is no ordering for the set of items with no date information available.   
 
 ## Possible issues
 Retrieval of records with a very large number of items (around 1000) has a tendency of failing. Also, some BibTeX entries provided by [INSPIRE REST API](https://github.com/inspirehep/rest-api-doc) contain invalid LaTeX formatting (seems to be more common for authors working in particle physics phenomenology). In such a case one must change the invalid lines in the **biblio.bib** file manually and recompile **pubslist.tex**.
