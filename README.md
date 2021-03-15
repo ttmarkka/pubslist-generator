@@ -17,7 +17,7 @@ foo@bar:~$ bash pubs.sh
 Inspire author identifier: tommi.markkanen.1
 Include unpublished (y/n): y
 ```
-The **pubslist.pdf** is accesible in the folder **files/**
+The **pubslist.pdf** is accessible in the folder **files/**
 ```console
 foo@bar:~$ {PDF_READER} ./files/publist.pdf
 ```
