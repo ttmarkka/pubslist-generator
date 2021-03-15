@@ -19,7 +19,7 @@ Include unpublished (y/n): y
 ```
 The **pubslist.pdf** is accessible in the folder **files/**
 ```console
-foo@bar:~$ {PDF_READER} ./files/publist.pdf
+foo@bar:~$ {PDF_READER} ./files/pubslist.pdf
 ```
 **files/** also contains the **pubslist.tex** and **biblio.bib** allowing customization.
 
