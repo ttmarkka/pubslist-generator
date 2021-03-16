@@ -3,7 +3,7 @@
 ![](./files/image.jpg)
 ## Description
 
-The need for a list of publications in pdf from is ubiquitous in high energy physics. This script uses the [INSPIRE REST API](https://github.com/inspirehep/rest-api-doc) for gathering the publication data and produces a pdf file via *LaTeX* and *BibTeX*. A unique INSPIRE identifier (BAI) is required as input.
+The need for a list of publications in pdf form is ubiquitous in high energy physics. This script uses the [INSPIRE REST API](https://github.com/inspirehep/rest-api-doc) for gathering the publication data and produces a pdf file via *LaTeX* and *BibTeX*. A unique INSPIRE identifier (BAI) is required as input.
 
 ## BAI
 
