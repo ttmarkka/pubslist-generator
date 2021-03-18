@@ -10,7 +10,7 @@ The need for a list of publications in pdf form is ubiquitous in high energy phy
 From [https://inspirehep.net/help](https://inspirehep.net/help/knowledge-base/inspire-paper-search/): "Assuming the author’s claimed all of their papers on INSPIRE, anyone using the author’s BAI will find the complete list of that person’s work. An author’s BAI is easily retrievable from the author’s profile page. It looks something like: 'M.Smith.1' or 'J.L.Greenwood.2'."
 
 ## Usage
-Execute the bash script **pubs.sh** and provide to prompted inputs ({BAI}, {y,n}). Example:
+Execute the bash script **pubs.sh** and provide the prompted inputs ({BAI}, {y,n}). Example:
 
 ```console
 foo@bar:~$ bash pubs.sh
